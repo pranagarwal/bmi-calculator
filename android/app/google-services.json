@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224105522095",
+    "project_id": "flash-chat-269a2",
+    "storage_bucket": "flash-chat-269a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224105522095:android:38929c65547e798444855a",
+        "android_client_info": {
+          "package_name": "pranshu.com.bmi_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224105522095-4crkna3168fh5ull84nmjgfgm8uimta7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE_-gpA7Nf--b71W50f9Iiyz6qkyANmZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224105522095-4crkna3168fh5ull84nmjgfgm8uimta7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
